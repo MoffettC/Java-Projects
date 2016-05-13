@@ -1,21 +1,19 @@
 package test;
 
+
 public class test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for (int i = 0; i < 100; i++){
-			
-			if (i % 3 == 0){
-				System.out.printf("fizz ");
-			}
-			if (i % 5 == 0){
-				System.out.printf("buzz ");
-			}
-			System.out.println(i);
-			
-		}
-		
+	      LastDigitDistribution dist1 = new LastDigitDistribution();
+	      dist1.process(new PrimeSequence(), 10);
+	      dist1.display();
+	      System.out.println();
+	      System.out.println();
+	      
+	      LastDigitDistribution dist2 = new LastDigitDistribution();
+	      dist2.process(new RandomSequence(), 100);
+	      dist2.display();
 	}
 
 }
