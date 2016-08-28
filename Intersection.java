@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 import java.awt.Rectangle;
 
 public class Intersection {

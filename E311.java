@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 public class E311 {
 	

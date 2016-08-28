@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 import java.util.Scanner;
 
 public class P8_1tester

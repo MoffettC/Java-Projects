@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 import java.awt.*;
 import java.awt.event.*;

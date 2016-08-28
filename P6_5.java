@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 public class P6_5 {
 	private boolean[] primeArray;

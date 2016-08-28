@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 public interface Sequence {
 	int next();

@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 import java.io.File;
 import java.io.FileNotFoundException;

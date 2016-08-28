@@ -1,4 +1,4 @@
-package test;
+package javaCSCI;
 
 /**
  * @author Christopher Moffett
